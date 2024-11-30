@@ -1,0 +1,18 @@
+*~
+*.bak
+
+# for Coq
+*.cm*
+a.out
+*.ml*
+
+# for Agda
+Main
+_build
+*.hs
+*.hi
+*.o
+
+# for MAlonzo
+MainGHC
+MAlonzo

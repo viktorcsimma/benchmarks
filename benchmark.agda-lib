@@ -1,0 +1,4 @@
+name: benchmark
+depend:
+  agda2hs
+include: .
